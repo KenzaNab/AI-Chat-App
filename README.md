@@ -27,5 +27,4 @@ npm install && npm start
 
 Frontend: http://localhost:3000 · API docs: http://localhost:8000/docs
 
-## License
-MIT — Kenza Nabaghi
+
